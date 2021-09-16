@@ -1,4 +1,4 @@
 # 0205
 大家好，我是张思雨，来自新媒体学院数字媒体技术二班，曾经学过一部分计算机的内容，喜欢ps和视频剪辑以及建模等技术，希望能加入这个社团能和大家进一步交流和互相学习。
 希望能加入大家跟大家一起学习一起进步。
-![](https://github.com/GCZASFA/0205/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210915204129.jpg?raw=true)
+！[test](https://github.com/GCZASFA/007/blob/main/file01/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210915204129.jpg)
